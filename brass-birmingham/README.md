@@ -8,3 +8,5 @@
 
 - [Official rulebook (French)](rules/Brass-Birmingham-Rulebook-FR-2018.07.11.pdf)
 - [Variant: Canal to shared rail with boat maintenance](rules/variant-canal-rail-partage.md)
+- [Variant: Preserving Level 1 resource industries](rules/variant-level-1-resource-industries.md)
+- [Variant: Overbuilding breweries](rules/variant-overbuild-breweries.md)
