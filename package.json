@@ -1,0 +1,14 @@
+{
+  "name": "board-games-documents",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prebuild:pdf": "playwright install chromium",
+    "build:pdf": "node scripts/build-pdfs.mjs",
+    "build": "npm run build:pdf"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "playwright": "^1.55.0"
+  }
+}
