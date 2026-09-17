@@ -12,6 +12,7 @@
 - [Variant: Preserving Level 1 resource industries](rules/variant-level-1-resource-industries.md)
 - [Variant: Overbuilding breweries](rules/variant-overbuild-breweries.md)
 - [Variant: Reduced-randomness hands](rules/variant-reduced-randomness-hands.md)
+- [Variante : protection contre la mauvaise main](rules/variant-protection-mauvaise-main.md)
 - [Variant: Building boats during the Rail era](rules/variant-bateaux-ere-rail.md)
 - [Variante : remplacer une liaison lorsque la réserve est vide](rules/variant-remplacement-liaison-reseau.md)
 
