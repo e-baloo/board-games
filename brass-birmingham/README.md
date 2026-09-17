@@ -7,11 +7,13 @@
 ## Rules
 
 - [Official rulebook (French)](rules/Brass-Birmingham-Rulebook-FR-2018.07.11.pdf)
+- [Synthèse des variantes](rules/synthese-variantes.md)
 - [Variant: Canal to shared rail with boat maintenance](rules/variant-canal-rail-partage.md)
 - [Variant: Preserving Level 1 resource industries](rules/variant-level-1-resource-industries.md)
 - [Variant: Overbuilding breweries](rules/variant-overbuild-breweries.md)
 - [Variant: Reduced-randomness hands](rules/variant-reduced-randomness-hands.md)
 - [Variant: Building boats during the Rail era](rules/variant-bateaux-ere-rail.md)
+- [Variante : remplacer une liaison lorsque la réserve est vide](rules/variant-remplacement-liaison-reseau.md)
 
 ### Explanations
 
