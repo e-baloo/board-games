@@ -11,3 +11,9 @@
 - [Variant: Preserving Level 1 resource industries](rules/variant-level-1-resource-industries.md)
 - [Variant: Overbuilding breweries](rules/variant-overbuild-breweries.md)
 - [Variant: Reduced-randomness hands](rules/variant-reduced-randomness-hands.md)
+- [Variant: Building boats during the Rail era](rules/variant-bateaux-ere-rail.md)
+
+### Explanations
+
+- [Explanation: Building a double Rail](rules/explication-construction-double-rail.md)
+- [Explication : limite des tuiles Réseau](rules/explication-limite-tuiles-reseau.md)
