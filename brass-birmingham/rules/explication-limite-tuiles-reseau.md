@@ -8,6 +8,18 @@ Lors de la mise en place, chaque joueur reçoit 14 tuiles Réseau. Le livret ne 
 
 Cela diffère de la réserve générale, que le livret décrit explicitement comme illimitée. La limite des tuiles Réseau reste donc implicite au lieu d'être formulée comme une règle distincte.
 
+### Que signifie « votre réseau de transport » ?
+
+Pour l'action « Réseau », votre réseau comprend :
+
+- chaque ville où vous avez au moins une tuile Industrie ;
+- chaque lieu atteint par une de vos tuiles Liaison ;
+- les lieux atteints en suivant une chaîne continue de vos propres tuiles Liaison depuis une ville déjà dans votre réseau.
+
+Les marchands ne font pas tous partie automatiquement de votre réseau. Un lieu Marchand en fait partie seulement s'il est relié à votre réseau par vos propres Liaisons. Le simple fait qu'un marchand soit présent sur le plateau ne permet donc pas, à lui seul, de construire une Liaison adjacente à n'importe quel autre lieu.
+
+Ainsi, pour construire une Liaison, au moins une de ses extrémités doit être adjacente à un lieu de votre réseau. La règle ne demande pas que les deux extrémités soient déjà dans votre réseau : la nouvelle Liaison sert précisément à l'étendre. La seule exception est votre toute première Liaison, si vous ne possédez encore aucune tuile Industrie ni aucune Liaison sur le plateau ; elle peut alors être placée sur n'importe quel canal ou chemin de fer disponible.
+
 ### Interprétation pratique
 
 L'interprétation habituelle et la plus cohérente est que le matériel limite la réserve personnelle de chaque joueur :
