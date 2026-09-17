@@ -16,6 +16,10 @@
 - [Variant: Building boats during the Rail era](rules/variant-bateaux-ere-rail.md)
 - [Variante : remplacer une liaison lorsque la réserve est vide](rules/variant-remplacement-liaison-reseau.md)
 
+## Stratégie
+
+- [Index des stratégies](strategy/README.md)
+
 ### Explanations
 
 - [Explanation: Building a double Rail](rules/explication-construction-double-rail.md)
